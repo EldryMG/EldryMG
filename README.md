@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript, React, Node.js and C#!
 - 👯 I’m looking to join a Minneapolis-based coding group.
 - 🥅 2021 Goals: Deliver an outstanding client project and become a native React developer.
-- ⚡ Fun fact: Fluent in French, so that's helpful sometimes.
+- ⚡ Fun fact: Fluent in French, so that's helpful occasionally..
 
 ### Connect with me:
 
