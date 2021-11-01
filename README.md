@@ -1,7 +1,5 @@
 ### Hi there, I'm Franck - aka [EldryMG][website] 👋
 
-[![Website](https://eldrymg.github.io/)](https://eldrymg.github.io/)
-
 
 - 🌱 I’m currently learning Javascript, React, Node.js and C#!
 - 👯 I’m looking to join a Minneapolis-based coding group.
