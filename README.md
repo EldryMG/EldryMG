@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/franck-bushbaum-482b16220/" />][linkedin]
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white[linkedin]
 
 
 <br />
