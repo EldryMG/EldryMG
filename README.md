@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="GitHub" width="26px" src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />[linkedin]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" />](https://www.linkedin.com/in/franck-bushbaum-482b16220/)
 
 
 <br />
